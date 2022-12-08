@@ -1,0 +1,5 @@
+# Things Needed for This Version
+
+# Ideas for Future Development
+1. Fix the rounding issue for sample sizes on explore page (Budget Allocation)
+2. Add a summary paragraph stating exact values like in Budget Allocation for the first three types  
